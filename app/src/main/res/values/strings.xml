@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tutorial Android Studio</string>
+    <string name="mainBtn">Login</string>
+    <string name="mainBtnLogout">Sair</string>
+    <string name="userTxt">Matricula:</string>
+    <string name="passwordTxt">Senha:</string>
+    <string name="loginHint">Digite os numeros da sua matricula...</string>
+</resources>
