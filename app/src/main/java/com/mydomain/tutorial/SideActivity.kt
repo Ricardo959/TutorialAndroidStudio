@@ -15,6 +15,8 @@ class SideActivity : AppCompatActivity() {
         val login = intent.getStringExtra("log") // Recebendo a matricula da tela anterior
         val password = intent.getStringExtra("psw") // Recebendo a senha da tela anterior
 
+        textView.text = login
+
         setupViewPager()
 
         setupBottomNavigationView()
